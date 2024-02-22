@@ -6,6 +6,6 @@ class IMConfig {
   /// Please specify the following fields before using this sample app
   static String sdkappid = GenerateTestUserSig.sdkAppId.toString();
   static String userid = "123888";
-  static String usersig = GenerateTestUserSig.genTestSig("123666");
+  static String usersig = GenerateTestUserSig.genTestSig("123888");
   static const appVersion = "2.0.0";
 }
