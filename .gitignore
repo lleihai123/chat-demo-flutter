@@ -1,0 +1,7 @@
+build/
+.dart_tool
+.idea
+ios/Podfile.lock
+pubspec.lock
+.flutter-plugins-dependencies
+.flutter-plugins
